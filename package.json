@@ -1,0 +1,16 @@
+{
+  "name": "react-football-simulator-template",
+  "version": "1.0.0",
+  "description": "A starter kit for building football draft simulators",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "author": "Football Devs",
+  "license": "MIT"
+}
